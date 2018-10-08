@@ -21,12 +21,12 @@ citEntry(
 citEntry(
   entry="article",	
   author = c(
-             person("Jiao", "Yinming"),
+             person("Yinming", "Jiao"),
              person("Martin", "Widschwendter"),
              person(c("Andrew", "E."), "Teschendorff")
            ),
   title="A systems-level integrative framework for genome-wide DNA methylation and gene expression data identifies differential gene expression modules under epigenetic control",
-  journal="Genome Med",
+  journal="Bioinfomatics",
   volume=30,
   number=16,
   pages=2360-6,
